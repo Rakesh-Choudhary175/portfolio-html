@@ -738,8 +738,16 @@ button {
   text-transform: capitalize;
   margin: 0 0 10px;
 }
+
 .about-text .timeline-item h4 spam {
   font-weight: 400;
+}
+
+.about-text .timeline-item h4 a {
+  font-weight: 200;
+  text-transform: lowercase;
+  color: var(--main-color);
+  text-transform: capitalize;
 }
 
 .about-text .btn {
