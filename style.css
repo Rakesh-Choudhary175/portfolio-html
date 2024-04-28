@@ -1015,3 +1015,7 @@ button {
     font-size: 20px;
   }
 }
+
+.nostyle {
+  color: inherit;
+}
